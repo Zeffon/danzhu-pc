@@ -1,4 +1,5 @@
-# shoots
+# danzhu-pc
+
 该项目是集速助手的Web端
 小程序收集文件之后生成的链接，可以在web端进行访问。该项目就是简单地显示收集夹内的数据。
 一次React项目的学习记录，练手React项目TypeScript风格 项目借鉴于imooc的实战教程jira项目
